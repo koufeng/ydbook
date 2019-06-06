@@ -1,0 +1,1082 @@
+[2019-05-09T09:47:39.255] [ERROR] cheese - Cheese is too ripe!
+[2019-05-09T09:47:44.239] [ERROR] cheese - Cheese is too ripe!
+[2019-05-09T09:47:45.228] [ERROR] cheese - Cheese is too ripe!
+[2019-05-09T09:47:46.245] [ERROR] cheese - Cheese is too ripe!
+[2019-05-09T09:53:25.861] [ERROR] cheese - Cheese is too ripe!
+[2019-05-09T09:53:30.187] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T17:29:56.785] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:09:37.798] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:09:38.896] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:10:01.922] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:10:06.958] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:11:37.169] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:11:38.242] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:11:44.273] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:11:57.330] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:05.322] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:07.310] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:20.374] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:24.889] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:25.351] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:29.431] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:30.389] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:12:40.503] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:02.494] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:06.557] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:10.549] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:25.592] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:28.623] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:38.709] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:42.637] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:44.692] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:13:45.728] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:07.201] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:07.727] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:12.828] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:23.878] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:26.955] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:27.844] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:14:37.727] [ERROR] cheese - ReferenceError: data is not defined
+    at /Users/fengkou/Desktop/kpro/yd-books/controllers/IndexController.js:9:15
+    at dispatch (/Users/fengkou/Desktop/kpro/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/Desktop/kpro/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/Desktop/kpro/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/Desktop/kpro/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/Desktop/kpro/yd-books/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-05-11T18:16:48.344] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:16:52.302] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:00.747] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:01.362] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:05.363] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:13.444] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:18.442] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:21.414] [ERROR] cheese - Cheese is too ripe!
+[2019-05-11T18:17:22.391] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:34:34.819] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:27.809] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:31.550] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:37.542] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:40.628] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:51.563] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:53.584] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:43:55.606] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:44:00.618] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:44:03.692] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T15:44:05.681] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:04:37.597] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:11:03.869] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:29:46.445] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:30:28.610] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:30:41.633] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:30:43.646] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:30:56.784] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:05.722] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:07.671] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:11.710] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:15.710] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:44.873] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:49.807] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:31:51.839] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:32:27.508] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:32:27.966] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:32:33.048] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:32:33.960] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T16:37:29.344] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:05:27.478] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:39.424] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:42.364] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:43.329] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:45.311] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:47.318] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:55.454] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:09:56.339] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:33:37.342] [ERROR] cheese - Cheese is too ripe!
+[2019-06-01T17:42:24.564] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T00:20:29.999] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T00:25:36.799] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:03:39.823] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:04:21.854] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:04:30.877] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:04:35.891] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:04:39.909] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:04:56.944] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:06:39.180] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:06:53.207] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:06:59.206] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:07:05.232] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:07:08.227] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:07:17.315] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:07:23.280] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:09:35.713] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:09:41.609] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:09:48.637] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:09:59.658] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:10:04.674] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:10:17.703] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:10:23.715] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:10:37.766] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:10:58.800] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:12:54.104] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:13:23.188] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:14:22.344] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:14:25.343] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:14:43.394] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:14:54.418] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:15:10.467] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:15:13.490] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:15:19.495] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:15:28.508] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:15:34.526] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:15:38.540] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:16:06.630] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:16:17.641] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:16:22.650] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:16:37.687] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:17:00.757] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:17:28.830] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:17:52.885] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:18:10.921] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:18:20.950] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:18:40.003] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:18:54.047] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:18:57.046] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:08.076] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:26.149] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:31.160] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:37.162] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:41.172] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:46.197] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:51.210] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:19:58.207] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:20:24.305] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:20:36.338] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:20:45.396] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:20:54.383] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:21:05.415] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:21:14.442] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:21:19.455] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:21:30.478] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:21:40.510] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:21:52.536] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:22:05.564] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:22:17.591] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:22:23.600] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:22:29.621] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:22:57.713] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:23:00.698] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:23:11.720] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:23:26.780] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:23:45.812] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:24:07.892] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:24:14.894] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:24:21.911] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:24:27.932] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:24:34.952] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:24:56.000] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:25:09.026] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:25:24.063] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:25:37.087] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:25:46.124] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:25:50.120] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:26:23.218] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:26:31.233] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:26:38.264] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:26:52.314] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:27:03.331] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:27:21.379] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:27:24.395] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:28:08.530] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:28:38.575] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:28:49.623] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:29:01.616] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:29:10.663] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:29:13.662] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:29:21.659] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:29:25.680] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:29:36.761] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T01:53:12.149] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:07:24.396] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:07:25.471] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:07:32.290] [ERROR] cheese - ReferenceError: Index is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:6:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:07:33.919] [ERROR] cheese - ReferenceError: Index is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:6:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:07:43.943] [ERROR] cheese - ReferenceError: Index is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:6:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:07:58.660] [ERROR] cheese - ReferenceError: Index is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:6:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:09:29.780] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:09:38.616] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:09:49.752] [ERROR] cheese - ReferenceError: Index is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:6:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:09:50.495] [ERROR] cheese - ReferenceError: Index is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:6:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:16.773] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:10:18.694] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:20.035] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:20.913] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:26.829] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:10:35.688] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:36.599] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:37.759] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:10:38.427] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:11:06.997] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:11:12.011] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:11:20.171] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:11:20.845] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:12:42.305] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:12:43.335] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:12:50.898] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:12:54.079] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:12:54.770] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:40.050] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:40.284] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:14:40.891] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:41.611] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:42.031] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:42.252] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:42.450] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:14:42.626] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:16:10.517] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:16:26.543] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:16:27.543] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:16:28.564] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:16:30.248] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:16:31.537] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:18:55.987] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:19:35.932] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:19:42.494] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:19:43.284] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:21:47.343] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:22:09.378] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:22:13.132] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:22:13.798] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:22:18.411] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:22:51.533] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:22:59.531] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:23:02.850] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:23:03.493] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:23:15.579] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:23:17.970] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:8:19
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:23:18.596] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:8:19
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:23:19.048] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:8:19
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:24:18.771] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:24:41.804] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:24:54.827] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:24:58.846] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:25:02.920] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:25:47.942] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:25:49.512] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:25:55.992] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:26:27.055] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:26:31.942] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:32.783] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:34.387] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:35.234] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:35.883] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:36.411] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:36.674] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:26:46.102] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:26:50.116] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:27:12.168] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:27:14.195] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:27:17.967] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:27:18.611] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:28:33.371] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:28:52.405] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:28:55.354] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:13:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:29:20.468] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:29:25.474] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:29:58.590] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:31:26.842] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:31:40.883] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:31:45.898] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:32:46.053] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:32:49.061] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:32:50.626] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:32:51.807] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:32:57.067] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:32:59.048] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:32:59.847] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:33:02.068] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:33:22.187] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:33:32.208] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:33:33.441] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:33:34.676] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:34:31.354] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:34:39.375] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:34:48.401] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:34:50.860] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:34:51.940] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:35:02.550] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:35:14.651] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:35:31.691] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:35:38.743] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:35:39.719] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:35:44.750] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:35:51.850] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:04.962] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:14.016] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:24.988] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:31.025] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:37.036] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:39.037] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:48.066] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:36:52.813] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:37:16.933] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:37:25.943] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:37:31.969] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:38:16.022] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:38:24.943] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:12:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:38:52.295] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:39:15.345] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:39:22.378] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:40:13.496] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:40:24.502] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:40:33.558] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:40:36.101] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:40:37.205] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:40:42.413] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:40:43.318] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:40:44.069] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:9:32
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:40:44.550] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:40:51.530] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:41:51.754] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:41:53.752] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:41:54.727] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:42:15.803] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:42:16.190] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:31
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:43:11.947] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:44:11.102] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:44:12.618] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:25
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:44:13.742] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:25
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:44:14.619] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:25
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:44:25.149] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:44:46.186] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:44:50.222] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:45:11.258] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:45:18.267] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:45:25.285] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:48:35.470] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:53:18.306] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:53:49.335] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:53:52.691] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:53:53.626] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:53:58.273] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:54:45.510] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:54:57.536] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:55:06.405] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:55:08.038] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:55:22.915] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:57:44.835] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T02:57:48.212] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:57:48.967] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:57:49.437] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:57:49.706] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T02:57:49.875] [ERROR] cheese - TypeError: undefined is not a promise
+    at Promise (<anonymous>)
+    at SafeRequest.fetch (/Users/fengkou/minepro/yideng/yd-books/utils/SafeRequest.js:11:12)
+    at Index.getData (/Users/fengkou/minepro/yideng/yd-books/models/Index.js:10:24)
+    at /Users/fengkou/minepro/yideng/yd-books/controllers/IndexController.js:7:34
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/yd-books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/yd-books/node_modules/koa-static/index.js:53:15)
+[2019-06-06T03:04:56.028] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T03:06:01.199] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T03:06:06.236] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T03:06:13.078] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T03:10:13.802] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T03:10:14.789] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:24:25.488] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:39:13.805] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:39:57.488] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:39:59.772] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:40:13.957] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:40:17.297] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:40:33.021] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:40:34.959] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:40:35.870] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:40:47.043] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:40:48.450] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:40:49.166] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:41:00.905] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-06T23:47:00.006] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:48:15.509] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:48:16.218] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:48:53.310] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:49:02.326] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:49:09.329] [ERROR] cheese - Cheese is too ripe!
+[2019-06-06T23:49:13.380] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:07:48.804] [ERROR] cheese - Cheese is too ripe!
