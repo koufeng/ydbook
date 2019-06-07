@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel ./assets/scripts/add.js --out-file ./assets/scripts/add-bundle.js",
-    "server:dev": "cross-env NODE_ENV=development supervisor ./app.js",
+    "server:dev": "cross-env NODE_ENV=development supervisor ./src/server/app.js",
     "docs": "jsdoc ./**/*.js -d ./docs/jsdocs"
   },
   "author": "",
@@ -21,6 +21,7 @@
     "@babel/core": "^7.4.5",
     "@babel/plugin-transform-modules-systemjs": "^7.4.4",
     "@babel/preset-env": "^7.4.5",
+    "axios": "^0.19.0",
     "cross-env": "^5.2.0",
     "jsdoc": "^3.6.2",
     "koa-static": "^5.0.0",
