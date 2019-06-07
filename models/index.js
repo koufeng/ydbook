@@ -9,5 +9,12 @@ class Index {
     const safeRequest = new SafeRequest('/list');
     return safeRequest.fetch({});
   }
+  saveData(options) {
+    const safeRequest = new SafeRequest('/add');
+    return safeRequest.fetch({
+      method: 'POST',
+      params: options.params
+    });
+  }
 }
 module.exports = Index;

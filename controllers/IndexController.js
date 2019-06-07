@@ -1,4 +1,5 @@
-const Index = require('../models/Index')
+const Index = require('../models/Index');
+const { URLSearchParams } = require('url');
 class IndexController{
   constructor() {}
   actionIndex() {
@@ -14,7 +15,14 @@ class IndexController{
   }
   actionAdd() {
     return async(ctx, next) => {
-      ctx.body = await ctx.render('add');
+      const parmas = new URLSearchParams();
+      parmas.append('Books[name]', '测试');
+      parmas.append('Books[author]', '数据');
+      const index = new Index();
+      const result = await index.saveData({
+        parmas
+      })
+      ctx.body = result;
     }
   }
 }

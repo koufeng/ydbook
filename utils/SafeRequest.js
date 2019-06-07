@@ -9,6 +9,12 @@ class SafeRequest {
     // 产生完整链接
     console.log(this.baseUrl)
     let ydfetch = fetch(this.baseUrl + this.url);
+    if (options) {
+      ydfetch = fetch(this.baseUrl + this.url, {
+        method: options.method,
+        body: options.params
+      });
+    }
     return new Promise((resolve, reject) => {
       let result = {
         code: 0,

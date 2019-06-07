@@ -1080,3 +1080,79 @@
 [2019-06-06T23:49:09.329] [ERROR] cheese - Cheese is too ripe!
 [2019-06-06T23:49:13.380] [ERROR] cheese - Cheese is too ripe!
 [2019-06-07T00:07:48.804] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:21:19.079] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:21:27.054] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:21:41.105] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:21:48.113] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:21:52.115] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:22:04.143] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:22:58.265] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:23:10.304] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:23:19.337] [ERROR] cheese - Cheese is too ripe!
+[2019-06-07T00:23:28.363] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T00:30:45.241] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:30:46.866] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:05.206] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T00:31:07.309] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:08.139] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:08.629] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:08.921] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:09.108] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:09.571] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T00:31:16.862] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T01:00:28.270] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:00:38.276] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:00:56.325] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:01:02.346] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:01:03.346] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:01:29.451] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:01:41.491] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:02:00.568] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:02:19.094] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:02:19.597] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:02:43.616] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:02:50.954] [ERROR] cheese - TypeError: index.saveData is not a function
+    at /Users/fengkou/minepro/yideng/ydbook/controllers/IndexController.js:22:34
+    at dispatch (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-static/index.js:53:15)
+[2019-06-08T01:02:53.314] [ERROR] cheese - TypeError: index.saveData is not a function
+    at /Users/fengkou/minepro/yideng/ydbook/controllers/IndexController.js:22:34
+    at dispatch (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-static/index.js:53:15)
+[2019-06-08T01:03:00.086] [ERROR] cheese - TypeError: index.saveData is not a function
+    at /Users/fengkou/minepro/yideng/ydbook/controllers/IndexController.js:22:34
+    at dispatch (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/fengkou/minepro/yideng/ydbook/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/fengkou/minepro/yideng/ydbook/node_modules/koa-static/index.js:53:15)
+[2019-06-08T01:03:52.845] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:03:57.862] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:05:25.096] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:07:56.291] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:08:13.317] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:08:47.435] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:08:51.427] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:09:10.979] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:09:11.475] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:09:35.496] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:09:47.503] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:10:10.522] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:10:15.542] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:10:22.545] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:10:57.579] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:11:01.591] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:11:05.583] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:11:41.362] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:11:41.609] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:12:03.637] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:12:25.675] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:12:40.676] [ERROR] cheese - Cheese is too ripe!
+[2019-06-08T01:12:55.068] [ERROR] cheese - { code: 1, message: 'node-fetch 异常😢', data: [] }
+[2019-06-08T01:15:12.894] [ERROR] cheese - Cheese is too ripe!
