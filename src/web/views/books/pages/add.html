@@ -1,29 +1,12 @@
-{% extends './layout.html' %}
+{% extends 'page:common/layout.html' %}
 {% block styles %}
-    <link rel="stylesheet" href="/styles/add.css">
+  <!--injectcss-->
 {% endblock %}
 {% block title %} 添加图书 {% endblock %}
 {% block content %}
-     <!-- <div id="app">
-         <h1>{{ message }}</h1>
-         <input type="text" v-model="message">
-     </div> -->
-     
+  {% include "components:banner/banner.html"%}
+  {% include "components:add/add.html"%}
 {% endblock %}
-
 {% block scripts %}
-    <!-- <script type="nomodule">
-      console.log('支持模块化')
-      import("/scripts/add.js").then((_) => {
-        const create = new _.default;
-        create.fn();
-      })
-    </script>
-    <script type='module' src="https://cdn.staticfile.org/systemjs/3.1.2/system.js"></script>
-    <script type='module'>
-      System.import('/scripts/add-bundle.js').then((_) => {
-        const create = new _.default;
-        create.fn();
-      })
-    </script> -->
-    {% endblock %}
+    <!--injectjs-->
+{% endblock %}

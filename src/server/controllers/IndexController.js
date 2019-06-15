@@ -19,6 +19,11 @@ class IndexController{
       parmas.append('Books[name]', '测试');
       parmas.append('Books[author]', '数据');
       const index = new Index();
+      // if (true) {
+      //   // 渲染json
+      // } else {
+      //   // 请求落地页
+      // }
       const result = await index.saveData({
         parmas
       })
